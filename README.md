@@ -42,12 +42,12 @@ Instead of just visualizing data, this project focuses on **understanding custom
 ## 📂 Project Structure
 
 ```text
-Customer-Behavior-Analysis
+Customer-Behavior-Analysis/
 │
 ├── Customer_Behavior_Analysis.ipynb    # Main analysis notebook
 ├── Customer_Behavior_Analysis.pdf      # Clean report version
 ├── ecommerce_dataset.csv               # Dataset (3,660 rows)
-├── images/                             # Sample visualization
+├── images/                             # Visualization images
 └── README.md
 ```
 
