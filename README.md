@@ -84,12 +84,5 @@ Customer-Behavior-Analysis/
 
 ---
 
-## 💡 Future Improvements
-- Build an interactive dashboard (Power BI / Tableau)  
-- Apply machine learning for customer prediction  
-- Automate reporting pipeline  
-
----
-
 ## 👤 Author
 **Sadikshya Karki**
